@@ -1,6 +1,6 @@
-# Student Record System — Summary
+# Student Record Management System — Summary
 
-- The project is a **Student Record System** with three departments:  
+- The project is a **Student Record Management System** with three departments:  
   **CS (Computer Science), SE (Software Engineering), EE (Electrical Engineering)**  
   (designed so more departments can be added easily)
 
